@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubekids.com
 DOMAIN-SUFFIX,yt.be
 DOMAIN-SUFFIX,ytimg.com
-
 #YouTubeMusic
 HOST,music.youtube.com
 USER-AGENT,*YouTubeMusic*
